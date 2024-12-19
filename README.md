@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a Laravel-based task management system designed to help users manage their tasks efficiently. It demonstrates key Laravel features, such as routing, controllers, Blade templating, database interactions with Eloquent ORM, CRUD operations, form validation, and session handling, all within the context of managing tasks.
+This project is a basic Laravel-based task management  designed to help users manage their tasks efficiently. It demonstrates key Laravel features, such as routing, controllers, Blade templating, database interactions with Eloquent ORM, CRUD operations, form validation, and session handling, all within the context of managing tasks.
 
 ## Features
 
